@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(1, 1, 66);
+}
+
+div {
+    height: 500px;
+    width:600px ;
+    border-radius: 15px;
+    padding-top: 100px;
+}
+
+.box {
+    width: 320px; 
+    height: 500px;
+    background-color: white;
+    padding: 15px;
+}
+
+div img {
+    background-color: rgb(3, 3, 41);
+    width: 312px;
+    height: 312px;
+}
+h1 {
+    font-size: 18px;
+    font-family:myFirstFont;
+    width: 288px;
+    height: 56px;
+}
+
+p {
+    width: 256px;
+    height: 57px;
+    font-size: 16px;
+}
